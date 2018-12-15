@@ -1,0 +1,4 @@
+IF GT_PREDATA IS INITIAL.
+    MESSAGE 'No data found' TYPE 'I'.
+    STOP.
+  ENDIF.
