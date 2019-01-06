@@ -1,6 +1,0 @@
-git clone  + link(tên project trên website) : tai project tu website ve local
-git status         : kiem tra xem file nào chýa ðýoc git theo doi
-git add + tên file : thêm file vào git
-git add *          : thêm tat ca file chýa ðýoc git theo doi vào git
-git commit -m"thêm mot momment": ðong bo file vào trong kho chua local
-git push           : ðong bo file vai git trên website
