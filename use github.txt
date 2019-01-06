@@ -1,0 +1,12 @@
+  * Update file changed up cloud
+b1:     git clone  + link(name project on website) : down project new from website on local.
+b2:     git status         : check to know file not yet management by github.
+b3:     git add + tên file : addition file in git local.
+b4:     git add *          : addition all file not yet github manager in git management.
+b5:     git commit -m"'momment'": sync file in local.
+b3+4+5: git commit -a -m"'comment'" : supplant "git add *" and "git commit -m"..."".
+b6:     git push           : update file changed up cloud.
+ 
+  back up file  after update.
+git log          : get id of the times update.
+git revert 'id'  : backup on file befor update the "n" the times.
