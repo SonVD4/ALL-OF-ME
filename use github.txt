@@ -7,7 +7,8 @@ b5:     git commit -m"'momment'": sync file in local.
 b3+4+5: git commit -a -m"'comment'" : supplant "git add *" and "git commit -m"..."".
 b6:     git push           : update file changed up cloud.
  
-  back up file  after update.
-git log          : get id of the times update.
-git revert 'id'  : backup on file befor update the "n" the times.
+  *back up file  after update.
+b1: git log          : get id of the times update.
+b2: git revert 'id'  : backup on file befor update the "n" the times.
+  * sync file on the cloud and local when change on the cloud.
 git pull         : sync file on cloud and local when change on the github.
